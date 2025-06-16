@@ -1,6 +1,6 @@
 ### Hi there, I'm Swati 👋
 
-🎓 I’m a 2nd-year B.Tech student in Information Technology with a passion for learning, teaching, and building meaningful tech projects.
+🎓 I’m a 3rd-year B.Tech student in Information Technology with a passion for learning, teaching, and building meaningful tech projects.
 
 🚀 Currently focused on:
 - Strengthening core CS subjects like DSA, OS, DBMS, and TOC
