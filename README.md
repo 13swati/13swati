@@ -9,7 +9,7 @@
 
 📚 Learning through:
 - Online platforms (Saylor Academy, PW, etc.)
-- Hands-on coding in C, Python, and React.js
+- Hands-on coding in C and React.js
 - Building and organizing personal projects on GitHub
 
 🛠️ Tools & Tech I’m exploring:
